@@ -17,11 +17,13 @@ What would such a civilization look like? There are three categories:
 - Type two would be a civilization capable of harnessing all of the energy of its home star. This would require some serious science fiction, but it is doable in principle. Concepts like the Dyson Sphere, a giant complex surrounding the sun, would be conceivable. 
 - Type three is a civilization that basically controls it's whole galaxy and its energy. An alien race this advanced would probably be godlike to us.
 
-#But why should we be able to see such an alien civilization in the first place?#
+*But why should we be able to see such an alien civilization in the first place?*
 
 If we were to build generation spaceships that could sustain a population for around one-thousand years, we could colonize the whole galaxy in two million years. Sounds like a long time, but remember, the milky way is huge. So, if it takes a couple of million years to colonize the entire galaxy, and there are possibly millions, if not billions of planets that sustain life in the milky way, and these other life forms have had considerably more time than we've had, then, where are all the aliens?
 
 ## This, is the Fermi Paradox, and nobody has an answer to it. But we do have some ideas. Let's talk about filters.
+
+![Image of Fermi Paradox Formula](https://inteng-storage.s3.amazonaws.com/img/iea/XD6K23kgGv/drake-equation.jpg)
 
 A filter in this context represents a barrier that is really hard for life to overcome. They come in various degrees of scary.  
 
@@ -38,6 +40,6 @@ To keep the delicate flame of life existing, and to spread it until the universe
 
 The universe is too beautiful not to be experienced by someone. 
 
--- Kurzgesagt, 1 Febuary 12015
+-- Kurzgesagt, 26 May 12015
 
 [Watch full video](https://www.youtube.com/watch?v=sNhhvQGsMEc)
