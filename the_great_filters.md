@@ -1,3 +1,5 @@
+# The Great Filter
+
 Imagine NASA announced today that they found aliens. Bacteria on Mars, weird alien fish in the oceans of Europa, and also ancient alien ruins on Titan. Wouldn't that be great? Well, no. It would be horrible news, devastating even.
 
 It could mean that the end of humanity is almost certain and that it might be coming soon. Why? Why would the most exciting discovery of our lifetime be bad? Let us imagine the development of life, from its inception to us today, as a flight of stairs.  The first step is dead chemistry that needs to assemble itself into self-replicating patterns, stable and resilient, but also able to change and evolve. 
@@ -61,4 +63,4 @@ How likely is it that we'll find life outside of Earth that is similar to us? We
 -- Kurzgesagt, 1 Febuary 12009
 
 
-Watch full video: [https://www.youtube.com/watch?v=UjtOGPJ0URM]
+(Watch full video)[https://www.youtube.com/watch?v=UjtOGPJ0URM]
