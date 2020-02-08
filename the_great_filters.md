@@ -14,6 +14,8 @@ If a species is competitive and driven enough to take control over its planet, t
 
 Space seems to be empty and dead. This means something is preventing living things from climbing the staircase, beyond the step we're on right now. Something that makes becoming a galactic civilization extremely hard, maybe impossible. 
 
+![Image of Human and Universe](https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+
 ## This is the Great Filter.
 
 ...A challenge or danger so hard to overcome, that it eliminates almost every species that encounters it.
