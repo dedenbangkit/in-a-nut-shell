@@ -62,7 +62,7 @@ How likely is it that we'll find life outside of Earth that is similar to us? We
 
 ------------------------
 
--- Kurzgesagt, 1 Febuary 12009
+-- Kurzgesagt, 1 Febuary 12019
 
 
 [Watch full video](https://www.youtube.com/watch?v=UjtOGPJ0URM)
