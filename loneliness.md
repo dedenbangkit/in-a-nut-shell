@@ -1,3 +1,5 @@
+# Loneliness
+
 Everybody feels lonely from time to time. When we have no one to sit next to at lunch, when we move to a new city, or when nobody has time for us at the weekend. But over the last few decades, this occasional feeling has become chronic for millions. In the UK, 60% of 18 to 34-year-olds say they often feel lonely. In the US, 46% of the entire population feel lonely regularly. We are living in the most connected time in human history. And yet, an unprecedented number of us feel isolated.
 
 Being lonely and being alone are not the same thing. You can be filled with bliss by yourself and hate every second surrounded by friends. Loneliness is a purely subjective, individual experience. If you feel lonely, you are lonely. A common stereotype is that loneliness only happens to people who don't know how to talk to people, or how to behave around others. But population-based studies have shown that social skills make practically no difference for adults when it comes to social connections. Loneliness can affect everybody: money, fame, power, beauty, social skills, a great personality;
